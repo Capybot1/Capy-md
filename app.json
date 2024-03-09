@@ -1,5 +1,5 @@
 {
-  "name":"IBRAHIM-AI-10.10",
+  "name":"UNLIMITED-AI-10.10",
   "description":"bot whatsapp développé par France King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value":"UNLIMITED-𝗧𝗘𝗖𝗛",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR IBRAHIM"
+    "value": "MR UNLIMITED"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254710772666"
+    "value": "254791635454"
   },
     "WARN_COUNT":
   {
